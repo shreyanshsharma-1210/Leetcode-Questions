@@ -49,4 +49,20 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Array
+|  |
+| ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Hash Table
+|  |
+| ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Greedy
+|  |
+| ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 <!---LeetCode Topics End-->
