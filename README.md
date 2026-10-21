@@ -125,4 +125,8 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## String
+|  |
+| ------- |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/3863-minimum-operations-to-sort-a-string) |
 <!---LeetCode Topics End-->
