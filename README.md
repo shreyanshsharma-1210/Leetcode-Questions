@@ -91,6 +91,7 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2409-count-days-spent-together](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Binary Indexed Tree
 |  |
@@ -130,5 +131,6 @@
 ## String
 |  |
 | ------- |
+| [2409-count-days-spent-together](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/3863-minimum-operations-to-sort-a-string) |
 <!---LeetCode Topics End-->
