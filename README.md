@@ -18,12 +18,14 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/0872-leaf-similar-trees) |
+| [1254-number-of-closed-islands](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -55,6 +57,7 @@
 ## Array
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -110,6 +113,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -133,4 +137,8 @@
 | ------- |
 | [2409-count-days-spent-together](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/3863-minimum-operations-to-sort-a-string) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
