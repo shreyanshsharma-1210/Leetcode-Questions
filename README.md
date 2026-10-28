@@ -42,6 +42,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/0062-unique-paths) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## DP on Trees
@@ -96,6 +97,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/0062-unique-paths) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -131,6 +133,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/0062-unique-paths) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
