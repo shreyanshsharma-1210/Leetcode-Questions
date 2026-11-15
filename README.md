@@ -46,6 +46,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/0062-unique-paths) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3665-twisted-mirror-path-count](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/3693-climbing-stairs-ii) |
@@ -67,6 +68,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -115,6 +117,7 @@
 | [0062-unique-paths](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/0062-unique-paths) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -180,5 +183,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
