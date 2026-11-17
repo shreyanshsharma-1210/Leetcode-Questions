@@ -168,6 +168,7 @@
 ## String
 |  |
 | ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/2409-count-days-spent-together) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -191,4 +192,8 @@
 |  |
 | ------- |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
