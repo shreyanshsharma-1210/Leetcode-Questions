@@ -72,6 +72,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -95,6 +96,7 @@
 ## Greedy
 |  |
 | ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -110,6 +112,7 @@
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
