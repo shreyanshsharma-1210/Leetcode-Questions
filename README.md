@@ -123,6 +123,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/0062-unique-paths) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
