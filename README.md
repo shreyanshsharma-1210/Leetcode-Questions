@@ -130,6 +130,7 @@
 | [0009-palindrome-number](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/0172-factorial-trailing-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -167,6 +168,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/0069-sqrtx) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3934-smallest-unique-subarray](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/3934-smallest-unique-subarray) |
@@ -247,4 +249,8 @@
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/3934-smallest-unique-subarray) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
