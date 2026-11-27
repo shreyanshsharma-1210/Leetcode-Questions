@@ -53,6 +53,7 @@
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3665-twisted-mirror-path-count](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/3693-climbing-stairs-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## DP on Trees
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3934-smallest-unique-subarray](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,6 +112,7 @@
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Bit Manipulation
 |  |
 | ------- |
