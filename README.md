@@ -95,6 +95,7 @@
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3934-smallest-unique-subarray](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/3934-smallest-unique-subarray) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -127,6 +129,7 @@
 | [2567-minimum-score-by-changing-two-elements](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Math
 |  |
 | ------- |
@@ -263,4 +266,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/0050-powx-n) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/shreyanshsharma-1210/Leetcode-Questions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 <!---LeetCode Topics End-->
